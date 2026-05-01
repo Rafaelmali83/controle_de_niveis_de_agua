@@ -12,3 +12,8 @@ Nível do reservatório	Situação	Cor sugerida
  Nível 3	Médio	Verde
  Nível 4	Alto	Ciano
 Nível 5	Muito alto (alerta)	Azul
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  </div>
